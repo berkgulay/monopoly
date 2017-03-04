@@ -7,7 +7,7 @@
 *.jar
 *.war
 *.ear
-*.tar
+*.tar.gz
 *.rar
 *.zip
 
