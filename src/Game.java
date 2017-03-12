@@ -46,14 +46,10 @@ public class Game {
 	public void game(Players p,int dice,Game game){
 		int initialPosition=p.getPosition();
 		
-		Players ps;
-		if (p.getName().equals("Player 1")){ps=player2;}
-		else{ps=player1;}
-		
 		Players p1;
 		Players p2;
-		if(p.getName().equals("Player 1")){p1=p;p2=ps;}
-		else{p1=ps;p2=p;}
+		if(p.getName().equals("Player 1")){p1=p;p2=player2;}
+		else{p1=player1;p2=p;}
 		
 		if(p.getPosition()==11){
 			if(p.getCounter()==3){
