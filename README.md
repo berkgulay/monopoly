@@ -1,6 +1,6 @@
 # Monopoly
 Text based Monopoly game (U.K version)
 
-*I was in my first year in Computer Engineering while I was implementing this with Java language.
+![](https://i.dailymail.co.uk/i/pix/2011/06/03/article-1393521-0C6047E600000578-120_964x966_popup.jpg)
 
-I am adding assignment manual and needed input files(as an example) which are mentioned in manual to my repo. Please read the assignment manual before execute the code with my or your input files.
+I am adding assignment manual and required input files (as a sample), which are mentioned in manual, to my repo. Please read the assignment manual before executing the code with any input file.
